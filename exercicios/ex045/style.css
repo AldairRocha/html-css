@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main{
+   background-color:  white; /*Cor do texto*/
+   border-radius: 10px; /*Borda pontas do texto branco*/
+    box-shadow: 5px 5px 15px rgb(197, 151, 90); /*Sombras 1 é pro lado 2 é pra baixo e 3 e o espalhamento e depois vem a cor*/
+    width: 600px; /*Largura horizontal*/ 
+    padding: 30px;/* Tamanho da "folha"*/ 
+    margin: auto; /*Margem*/ 
+}
+
+body{
+    background-image: linear-gradient(to right, #F1D8C9, #F2C3A7); /*Cor do degrade*/ 
+    
+}
+
+h1{
+    color: rgb(82, 118, 223); /* cor do texto h1*/
+    text-align: center; /*texto centralizado*/ 
+    text-shadow: 1px 1px 2px black; /* 1 é pro lado 2 e pra baixo e 3 espalhamento 4 a cor*/ 
+}
+
+h2{
+    color: #1543587a;
+ text-align: center;   
+ text-shadow: 1px 1px 1px black; 
+}
+p{
+    text-align: :justify;
+}
