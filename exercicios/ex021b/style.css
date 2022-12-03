@@ -67,7 +67,7 @@ main{
 
 }
 ul{
-    columns: 2;
+    columns: 2;\
 }
 li{
     padding-left: 15px;
